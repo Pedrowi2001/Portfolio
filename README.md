@@ -27,6 +27,8 @@ https://github.com/Pedrowi2001/Testes-Manuais
 
 Atuamente estou iniciando os estudos sobre a automação de testes utilizando Cypress e JavaScript, investigando como essas ferramentas podem acelerar o processo de validação de aplicações. Tenho me esforçado para compreender a estrutura e os princípios do Cypress, bem como para aprender a desenvolver testes automatizados em JavaScript. O meu propósito é melhorar minhas competências em automação para contribuir de maneira mais eficaz em projetos de Qualidade de Software, assegurando testes ágeis, repetitivos e confiáveis.
 
+https://github.com/Pedrowi2001/Automacao_Barbearia_Cypress
+
 # Lógica de Programação com Java Scritp
 
 Possuo habilidades básicas em Lógica de Programação com JavaScript, onde adquiri os princípios básicos da programação, tais como estruturas de controle (loops e condicionais), gerenciamento de variáveis e funções. Com esses conhecimentos iniciais, estou iniciando a compreensão da lógica envolvida na solução de problemas e estabelecendo a fundação para a criação de códigos mais eficazes, especialmente para utilização na automação de testes e em outros campos do desenvolvimento.
