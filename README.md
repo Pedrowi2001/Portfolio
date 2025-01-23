@@ -21,6 +21,8 @@ Estou buscando conhecimento sobre as ferramentas Jira e Confluence por meio de p
 
 Sou um entusiasta em testes manuais de software, começando a construir minha base de conhecimento na área. Tenho aprendido sobre metodologias ágeis, análise de histórias de usuário, critérios de aceitação e criação de casos de teste. Estou me familiarizando com ferramentas como o Jira para registrar e acompanhar defeitos e organizando casos de teste, além de explorar a escrita de cenários com BDD e Gherkin. Estou engajado em entender os fundamentos de QA e empolgado para aplicar e aprofundar esses aprendizados em projetos reais, contribuindo para a entrega de produtos de qualidade.
 
+https://github.com/Pedrowi2001/Testes-Manuais
+
 # Testes Automatizados
 
 Atuamente estou iniciando os estudos sobre a automação de testes utilizando Cypress e JavaScript, investigando como essas ferramentas podem acelerar o processo de validação de aplicações. Tenho me esforçado para compreender a estrutura e os princípios do Cypress, bem como para aprender a desenvolver testes automatizados em JavaScript. O meu propósito é melhorar minhas competências em automação para contribuir de maneira mais eficaz em projetos de Qualidade de Software, assegurando testes ágeis, repetitivos e confiáveis.
