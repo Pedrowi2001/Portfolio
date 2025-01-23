@@ -31,5 +31,7 @@ Atuamente estou iniciando os estudos sobre a automação de testes utilizando Cy
 
 Possuo habilidades básicas em Lógica de Programação com JavaScript, onde adquiri os princípios básicos da programação, tais como estruturas de controle (loops e condicionais), gerenciamento de variáveis e funções. Com esses conhecimentos iniciais, estou iniciando a compreensão da lógica envolvida na solução de problemas e estabelecendo a fundação para a criação de códigos mais eficazes, especialmente para utilização na automação de testes e em outros campos do desenvolvimento.
 
+https://github.com/Pedrowi2001/Projetos_JS
+
 # Idiomas
 No momento, iniciei o nível intermediário do curso de inglês, consciente da relevância do idioma para a minha trajetória profissional, particularmente no setor tecnológico. Ao dominar o inglês, terei a capacidade de acessar materiais técnicos, colaborar com equipes internacionais e usar ferramentas e documentos de maneira mais simples. Estou empenhado em melhorar minha habilidade de comunicação para me tornar um profissional ainda mais qualificado e pronto para as oportunidades do mercado mundial.
